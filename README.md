@@ -1,5 +1,5 @@
 # PortScan
- Python Port Scanning
+ Basic Python Port Scanning  - This was created to be used during a college class project. Had to make your own tools for part of the security capstone project.
 
 #Library
 Socket & threading
